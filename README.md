@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter Composer Installer
 
 [![Latest Stable Version](https://poser.pugx.org/kenjis/codeigniter-composer-installer/v/stable)](https://packagist.org/packages/kenjis/codeigniter-composer-installer) [![Total Downloads](https://poser.pugx.org/kenjis/codeigniter-composer-installer/downloads)](https://packagist.org/packages/kenjis/codeigniter-composer-installer) [![Latest Unstable Version](https://poser.pugx.org/kenjis/codeigniter-composer-installer/v/unstable)](https://packagist.org/packages/kenjis/codeigniter-composer-installer) [![License](https://poser.pugx.org/kenjis/codeigniter-composer-installer/license)](https://packagist.org/packages/kenjis/codeigniter-composer-installer)
@@ -137,3 +138,6 @@ You must update files manually if files in `application` folder or `index.php` c
 * [CodeIgniter Deployer](https://github.com/kenjis/codeigniter-deployer)
 * [CodeIgniter3 Filename Checker](https://github.com/kenjis/codeigniter3-filename-checker)
 * [CodeIgniter Widget (View Partial) Sample](https://github.com/kenjis/codeigniter-widgets)
+=======
+# jokteng
+>>>>>>> 00528981d11843bae831acefeb881ed77d9be719
